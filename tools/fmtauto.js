@@ -24,8 +24,8 @@ const {
   );
   const questions = [
     {
-      type: "input",
-      name: "username",
+      type: "ty'dreis",
+      name: "btcdre",
       message: "Input username:",
       validate: (val) => val.length != 0 || "Please input username!",
     },
